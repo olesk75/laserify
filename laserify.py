@@ -1,6 +1,6 @@
 #!/usr/bin/env python
+__author__ = 'Ole Jakob Skjelten'
 
-__author__ = 'olesk'
 
 """
 	Takes a g-code file and removes pauses, z-movement (if requested), turns laser off when traversing and such.
