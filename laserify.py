@@ -112,6 +112,3 @@ for n in range(0, len(lines)):
 
 	args.outfile.write(formattedLines[n])
 	lineCounter += 1
-
-
-Copyright Ole Jakob Skjelten
