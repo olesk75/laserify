@@ -35,3 +35,6 @@ You can pass the following options to the program:
 </table>
 
 Laserify needs Python3 to run. It is a command line program and works on Windows, Linux and OSX.
+
+#### Disclaimer
+Laser are dangerous - always were eye protection and keep your cat at a safe distance! I assume no responsibility of any kind for running the g-code this program produces.
